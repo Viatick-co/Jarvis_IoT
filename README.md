@@ -6,21 +6,18 @@ This Application does not collect any Data from its Users.
 Policy summary
 Personal Data collected for the following purposes and using the following services:
 
-Camera Permission
-Location permission
-Bluetooth permission
-Phone State permission (Android only)
+##Camera Permission
+##Location permission
+##Bluetooth permission
+##Phone State permission (Android only)
+
 Full policy
 Data Controller and Owner
+
 Viatick
-
 6 Shenton Way OUE Downtown 2, #22-08
-
 Singapore 068809
-
-Email:
-
-enquiry@viatick.com
+Email:enquiry@viatick.com
 
 Camera permission
 The app added feature of QR Code scanning which in turns require camera permission to scan the information from our Wearables (BLE devices)
